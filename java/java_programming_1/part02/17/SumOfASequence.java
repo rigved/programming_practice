@@ -26,7 +26,8 @@ public class SumOfASequence
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Last number? ");
-        int lastNumber = Integer.valueOf(scanner.nextLine()), sum = 0;
+        int lastNumber = Integer.valueOf(scanner.nextLine());
+        int sum = 0;
 
         for (int i = 1; i <= lastNumber; i++)
         {
