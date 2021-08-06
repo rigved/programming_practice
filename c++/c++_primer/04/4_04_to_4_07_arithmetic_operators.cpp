@@ -1,5 +1,5 @@
 /*
- * 4_04_to_4_07_arithmetic_operators_extended.cpp
+ * 4_04_to_4_07_arithmetic_operators.cpp
  * Copyright (C) 2021  Rigved Rakshit
  *
  * This program is free software: you can redistribute it and/or modify
